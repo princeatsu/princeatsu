@@ -2,7 +2,7 @@
 - 👀 I’m interested in running a time series forecasting with R
 - 🌱 I’m currently learning time series forecasting
 - 💞️ I’m looking to collaborate on how to do that
-- 📫 How to reach me: whatsapp: 0548232021
+- 📫 How to reach me: whatsapp: +233548232021
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: nothing much
 <!---
